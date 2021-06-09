@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "pwd"
+MYPWD=${PWD}
+cd /root/alx-system_engineering-devops/0x00-shell_basics
+\n
