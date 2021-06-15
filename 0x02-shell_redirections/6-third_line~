@@ -1,0 +1,2 @@
+#!/bin/bash
+cat sample_data_1.txt | head25 | tail -1
